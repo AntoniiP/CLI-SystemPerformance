@@ -6,3 +6,5 @@ To run it:
 npm i && npm link
 ```
 Now you can run `sys-perf` in your terminal.
+
+This project was to have a quick tool to have information about your system performance. It will be expanded with additional features.
